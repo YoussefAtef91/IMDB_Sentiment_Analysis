@@ -7,14 +7,14 @@ Building a sentiment analysis model using IMDB reviews dataset
 In this proejct, we're gonna use the dataset from [the Stanford page of Andrew Maas](https:/ /ai.stanford.edu/~amaas/data/sentiment)
 
 # Data directory structure
-aclImdb
-├── test
-│   ├── neg
-│   └── pos
-└── train
-    ├── neg
-    ├── pos
-    └── unsup
+aclImdb<br>
+├── test<br>
+│   ├── neg<br>
+│   └── pos<br>
+└── train<br>
+    ├── neg<br>
+    ├── pos<br>
+    └── unsup<br>
 
 7 directories
 
